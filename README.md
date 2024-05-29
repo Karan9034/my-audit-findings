@@ -1,6 +1,6 @@
 # My Audit Findings
 
-This repo contains my findings in different public smart contract audit contests
+This repo contains my valid findings in different public smart contract audit contests
 
 | MM/YYYY | Platform | Protocol | Details |
 | --- | --- | --- | --- |
