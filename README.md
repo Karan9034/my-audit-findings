@@ -19,7 +19,7 @@ This repo contains my findings in different public smart contract audit contests
 C: Critical
 H: High
 M: Medium
-L: Low/Info
+L: Low
 I: Invalid
 G: Gas
 ```
