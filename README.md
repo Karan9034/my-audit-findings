@@ -4,6 +4,7 @@ This repo contains my findings in different public smart contract audit contests
 
 | MM/YYYY | Platform | Protocol | Details | Payout |
 | --- | --- | --- | --- | --- |
+| 07/2024 | CodeHawks | [ChainLink](https://codehawks.cyfrin.io/c/2024-07-CL-CCIP) | [I-1](#), [I-2](#) | $0 |
 | 06/2024 | Code4rena | [Vultisig](https://code4rena.com/audits/2024-06-vultisig) | [?-1](#), [?-2](#) | ? |
 | 06/2024 | Code4rena | [THORChain](https://code4rena.com/audits/2024-06-thorchain) | [H-1](#) | $458.56 |
 | 05/2024 | Sherlock | [Arrakis](https://audits.sherlock.xyz/contests/195) | [I-1](github.com/sherlock-audit/2024-03-arrakis-judging/issues/1) | $0 |
