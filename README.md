@@ -4,6 +4,7 @@ This repo contains my findings in different public smart contract audit contests
 
 | MM/YYYY | Platform | Protocol | Details | Payout |
 | --- | --- | --- | --- | --- |
+| 09/2024 | Sherlock | [Thanos](https://audits.sherlock.xyz/contests/481) | ?? | $? |
 | 09/2024 | Cantina | [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602) | ?? | $? |
 | 09/2024 | Cantina | [Uniswap v4](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659) | ?? | $? |
 | 08/2024 | Cantina | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | ?? | $? (0xSolWrecker) |
